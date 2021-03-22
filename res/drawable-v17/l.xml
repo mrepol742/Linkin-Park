@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:id="@id/h" android:opacity="transparent">
+	<item>
+		<color android:color="@color/e" />
+	</item>
+	<item>
+		<bitmap android:gravity="center" android:id="@id/i" android:src="@drawable/t" android:tileMode="disabled" />
+	</item>
+</layer-list>

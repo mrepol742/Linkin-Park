@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<inset xmlns:android="http://schemas.android.com/apk/res/android" android:visible="true" android:drawable="@drawable/o_webp" android:insetLeft="5.0dip" android:insetRight="5.0dip" android:insetTop="2.0dip" android:insetBottom="3.0dip" />

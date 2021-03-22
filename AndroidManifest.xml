@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:installLocation="auto" android:versionCode="017201927" android:versionName="4.0" package="com.android.DROID_MJ.linkinpark" platformBuildVersionCode="27" platformBuildVersionName="8.1.0">
+	<supports-screens android:anyDensity="@bool/a" android:largeScreens="@bool/f" android:normalScreens="@bool/c" android:resizeable="@bool/e" android:smallScreens="@bool/d" android:xlargeScreens="@bool/b" />
+	<uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
+	<uses-permission android:name="com.android.launcher.permission.UNINSTALL_SHORTCUT" />
+	<uses-sdk android:minSdkVersion="21" android:targetSdkVersion="27" />
+	<application android:allowBackup="@bool/g" android:hardwareAccelerated="@bool/a" android:icon="@mipmap/a" android:label="@string/a" android:roundIcon="@mipmap/b" android:supportsRtl="@bool/h" android:theme="@style/d">
+		<activity android:name="com.android.DROID_MJ.linkinpark.a">
+			<intent-filter>
+				<action android:name="android.intent.action.MAIN" />
+				<category android:name="android.intent.category.LAUNCHER" />
+			</intent-filter>
+		</activity>
+		<activity android:label="@string/d" android:name="com.android.DROID_MJ.linkinpark.c" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/e" android:name="com.android.DROID_MJ.linkinpark.d" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/f" android:name="com.android.DROID_MJ.linkinpark.e" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/h" android:name="com.android.DROID_MJ.linkinpark.f" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/j" android:name="com.android.DROID_MJ.linkinpark.g" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/m" android:name="com.android.DROID_MJ.linkinpark.h" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/n" android:name="com.android.DROID_MJ.linkinpark.i" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/o" android:name="com.android.DROID_MJ.linkinpark.j" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/p" android:name="com.android.DROID_MJ.linkinpark.k" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/q" android:name="com.android.DROID_MJ.linkinpark.l" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/t" android:name="com.android.DROID_MJ.linkinpark.c0" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/v" android:name="com.android.DROID_MJ.linkinpark.c1" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/x" android:name="com.android.DROID_MJ.linkinpark.c2" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/z" android:name="com.android.DROID_MJ.linkinpark.c3" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/a2" android:name="com.android.DROID_MJ.linkinpark.c4" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/a4" android:name="com.android.DROID_MJ.linkinpark.c5" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/a18" android:name="com.android.DROID_MJ.linkinpark.c6" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/a20" android:name="com.android.DROID_MJ.linkinpark.c7" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/b2" android:name="com.android.DROID_MJ.linkinpark.c8" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/b4" android:name="com.android.DROID_MJ.linkinpark.c9" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/u" android:name="com.android.DROID_MJ.linkinpark.c10" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/b6" android:name="com.android.DROID_MJ.linkinpark.c11" android:parentActivityName="com.android.DROID_MJ.linkinpark.c"   />
+		<activity android:label="@string/a8" android:name="com.android.DROID_MJ.linkinpark.l0" android:parentActivityName="com.android.DROID_MJ.linkinpark."   />
+		<activity android:label="@string/a10" android:name="com.android.DROID_MJ.linkinpark.l1" android:parentActivityName="com.android.DROID_MJ.linkinpark.l"   />
+		<activity android:label="@string/d20" android:name="com.android.DROID_MJ.linkinpark.l2" android:parentActivityName="com.android.DROID_MJ.linkinpark.l"   />
+		<activity android:label="@string/a6" android:name="com.android.DROID_MJ.linkinpark.j0" android:parentActivityName="com.android.DROID_MJ.linkinpark.j"   />
+		<activity android:label="@string/d18" android:name="com.android.DROID_MJ.linkinpark.j1" android:parentActivityName="com.android.DROID_MJ.linkinpark.j"   />
+		<activity android:label="@string/a12" android:name="com.android.DROID_MJ.linkinpark.m" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/a13" android:name="com.android.DROID_MJ.linkinpark.m0" android:parentActivityName="com.android.DROID_MJ.linkinpark.m"   />
+		<activity android:label="@string/a14" android:name="com.android.DROID_MJ.linkinpark.m1" android:parentActivityName="com.android.DROID_MJ.linkinpark.m"   />
+		<activity android:label="@string/b7" android:name="com.android.DROID_MJ.linkinpark.h0" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b8" android:name="com.android.DROID_MJ.linkinpark.h1" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b9" android:name="com.android.DROID_MJ.linkinpark.h2" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b10" android:name="com.android.DROID_MJ.linkinpark.h3" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b11" android:name="com.android.DROID_MJ.linkinpark.h4" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b12" android:name="com.android.DROID_MJ.linkinpark.h5" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b13" android:name="com.android.DROID_MJ.linkinpark.h6" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b14" android:name="com.android.DROID_MJ.linkinpark.h7" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b15" android:name="com.android.DROID_MJ.linkinpark.h8" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/b16" android:name="com.android.DROID_MJ.linkinpark.h9" android:parentActivityName="com.android.DROID_MJ.linkinpark.h"   />
+		<activity android:label="@string/c7" android:name="com.android.DROID_MJ.linkinpark.i0" android:parentActivityName="com.android.DROID_MJ.linkinpark.i"   />
+		<activity android:label="@string/c8" android:name="com.android.DROID_MJ.linkinpark.i1" android:parentActivityName="com.android.DROID_MJ.linkinpark.i"   />
+		<activity android:label="@string/c9" android:name="com.android.DROID_MJ.linkinpark.i2" android:parentActivityName="com.android.DROID_MJ.linkinpark.i"   />
+		<activity android:label="@string/c13" android:name="com.android.DROID_MJ.linkinpark.k0" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c14" android:name="com.android.DROID_MJ.linkinpark.k1" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c15" android:name="com.android.DROID_MJ.linkinpark.k2" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c16" android:name="com.android.DROID_MJ.linkinpark.k3" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c17" android:name="com.android.DROID_MJ.linkinpark.k4" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c18" android:name="com.android.DROID_MJ.linkinpark.k5" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c19" android:name="com.android.DROID_MJ.linkinpark.k6" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/c20" android:name="com.android.DROID_MJ.linkinpark.k7" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/d1" android:name="com.android.DROID_MJ.linkinpark.k8" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/d2" android:name="com.android.DROID_MJ.linkinpark.k9" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/d3" android:name="com.android.DROID_MJ.linkinpark.k10" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/d4" android:name="com.android.DROID_MJ.linkinpark.k11" android:parentActivityName="com.android.DROID_MJ.linkinpark.k"   />
+		<activity android:label="@string/e2" android:name="com.android.DROID_MJ.linkinpark.n" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/e3" android:name="com.android.DROID_MJ.linkinpark.n0" android:parentActivityName="com.android.DROID_MJ.linkinpark.n"   />
+		<activity android:label="@string/e4" android:name="com.android.DROID_MJ.linkinpark.o" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/e5" android:name="com.android.DROID_MJ.linkinpark.o0" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e6" android:name="com.android.DROID_MJ.linkinpark.o1" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e7" android:name="com.android.DROID_MJ.linkinpark.o2" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e8" android:name="com.android.DROID_MJ.linkinpark.o3" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e9" android:name="com.android.DROID_MJ.linkinpark.o4" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e10" android:name="com.android.DROID_MJ.linkinpark.o5" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e11" android:name="com.android.DROID_MJ.linkinpark.o6" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e12" android:name="com.android.DROID_MJ.linkinpark.o7" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e13" android:name="com.android.DROID_MJ.linkinpark.o8" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/e14" android:name="com.android.DROID_MJ.linkinpark.o9" android:parentActivityName="com.android.DROID_MJ.linkinpark.o"   />
+		<activity android:label="@string/f20" android:name="com.android.DROID_MJ.linkinpark.p" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+		<activity android:label="@string/g1" android:name="com.android.DROID_MJ.linkinpark.p0" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g2" android:name="com.android.DROID_MJ.linkinpark.p1" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g3" android:name="com.android.DROID_MJ.linkinpark.p2" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g4" android:name="com.android.DROID_MJ.linkinpark.p3" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g5" android:name="com.android.DROID_MJ.linkinpark.p4" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g6" android:name="com.android.DROID_MJ.linkinpark.p5" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g7" android:name="com.android.DROID_MJ.linkinpark.p6" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g8" android:name="com.android.DROID_MJ.linkinpark.p7" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g9" android:name="com.android.DROID_MJ.linkinpark.p8" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g10" android:name="com.android.DROID_MJ.linkinpark.p9" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g11" android:name="com.android.DROID_MJ.linkinpark.p10" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g12" android:name="com.android.DROID_MJ.linkinpark.p11" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g13" android:name="com.android.DROID_MJ.linkinpark.p12" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/g14" android:name="com.android.DROID_MJ.linkinpark.p13" android:parentActivityName="com.android.DROID_MJ.linkinpark.p"   />
+		<activity android:label="@string/h3" android:name="com.android.DROID_MJ.linkinpark.q" android:parentActivityName="com.android.DROID_MJ.linkinpark.a"   />
+	</application>
+</manifest>

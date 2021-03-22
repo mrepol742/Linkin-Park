@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<style name="a" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+<style name="c" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+<style name="d" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+<style name="e" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+<style name="f" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+<style name="g" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+<style name="h" parent="@android:style/Theme.Material.Light.DarkActionBar" />
+</resources>

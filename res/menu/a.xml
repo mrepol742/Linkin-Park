@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@id/f">
+	<item android:icon="@drawable/k" android:id="@id/l" android:title="@string/f13" android:showAsAction="always">
+		<menu>
+			<item android:icon="@drawable/u" android:id="@id/g" android:title="@string/l" android:showAsAction="never" />
+			<item android:icon="@drawable/a1" android:id="@id/r" android:title="@string/h2" android:showAsAction="never" />
+			<item android:icon="@drawable/v" android:id="@id/m" android:title="@string/f14" android:showAsAction="never" />
+		</menu>
+	</item>
+</menu>
